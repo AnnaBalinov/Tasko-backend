@@ -22,9 +22,9 @@ We created a pixel-perfect Trello clone and implemented many of its features lik
 - Sass
 
 ## Frontend
-<a href="https://github.com/AnnaBalinov/Tasko-backend" target="blank"> Tasko-frontend repository </a>
 The frontend is hosted on Render.  
 Link: https://tasko.onrender.com/
+<a href="https://github.com/AnnaBalinov/Tasko-backend" target="blank"> Tasko-frontend repository </a>
 
 ## Backend
 This repository if for the backend
